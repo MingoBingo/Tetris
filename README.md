@@ -35,3 +35,6 @@ Open your terminal or command prompt in the project folder and run the appropria
 Compile the game linking the Raylib library and its dependencies:
 ```bash
 g++ main.cpp piece.cpp -o tetris -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+```
+---
+*Note: This README was drafted with AI assistance.*
